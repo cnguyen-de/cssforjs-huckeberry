@@ -1,0 +1,50 @@
+html, body {
+    width: 100%;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 18px;
+    margin: 0
+}
+
+.hero {
+    border-bottom: 8px solid darkslategray;
+}
+
+.hero__content {
+    max-width: 800px;
+    padding: 32px 24px;
+    margin: 0 auto;
+}
+.hero__content p {
+    max-width: 375px;
+}
+
+.history {
+    background-color: gray;
+    padding: 64px 0;
+}
+
+.history__content {
+    background-color: white;
+    margin: 0 auto;
+    max-width: 800px;
+    line-height: 24px;
+    padding: 8px 24px;
+}
+h2 {
+    background: orange;
+    padding: 16px 24px;
+    margin: 0px 0 8px -32px;
+    border-bottom: 8px solid darkorange;
+    display:inline-block
+}
+
+h1 {
+    font-size: 40px;
+    padding: 40px 0;
+}
+
+strong {
+    font-weight: 700;
+    color: teal;
+}
